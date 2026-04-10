@@ -1,5 +1,3 @@
-PROYECTO ANALISIS DE DATOS PARA TIENDA ONLINE DE VIDEOJUEGOS ICE  
-La tienda online Ice dedicada a vender video juegos planea una campaña para el año 2017, basándose en datos proporcionados hasta el año 2016. La información dada contenía nombre, plataforma, año de lanzamiento, ventas en distintas regiones calificaciones del juego y su clasificación según la ESRB.
+Portafolio-Álvaro-Bonilla-Análisis-de-Datos
 
-
-
+Proyectos de análisis de datos que incluyen código Python y sus librerías para el manejo, limpieza, modelado de grandes volúmenes de dato, junto con análisis estadísticos, visualización de gráficos y distintas pruebas de hipótesis, AA/B, KPI y EDA
